@@ -4,12 +4,12 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
-subtitle:
-description:
+title: YK Blog
+subtitle: nice!
+description: Who you are?
 author: Yikun Gong
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: zh
+language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
@@ -226,9 +226,7 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
-  Twitter: twitter
-  Weibo: weibo
+  GitHub: yikungong
 
 
 # Sidebar Avatar
