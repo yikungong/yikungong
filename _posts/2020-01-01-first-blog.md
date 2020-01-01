@@ -2,7 +2,8 @@
 title: First Blog
 description: This is my first blog
 categories:
- - blog, test
+ - blog
+ - test
 tags:
  - test
 ---
